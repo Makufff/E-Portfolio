@@ -69,7 +69,7 @@
     /* Add Fonts */
   @font-face {
   font-family: Minecraft-font;
-  src: url(/assets/fonts/Minecraft.ttf);
+  src: url(./assets/fonts/Minecraft.ttf);
   }
   
   /* Reset  */
@@ -248,7 +248,7 @@
   .rotate-img { display: none; }
   
   .hero {
-    background-image: url("../images/hero-bg.gif");
+    background-image: url("./images/hero-bg.gif");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
